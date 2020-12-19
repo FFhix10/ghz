@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@babel/runtime-corejs2": "^7.9.6",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-color": "^2.4.1",
     "evergreen-ui": "^4.27.4",
     "fuzzaldrin-plus": "^0.6.0",
