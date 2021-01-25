@@ -23,7 +23,7 @@
     "@babel/runtime-corejs2": "^7.12.5",
     "chart.js": "^2.9.3",
     "chartjs-color": "^2.4.1",
-    "evergreen-ui": "^4.27.4",
+    "evergreen-ui": "^4.29.1",
     "fuzzaldrin-plus": "^0.6.0",
     "ky": "^0.25.0",
     "lodash": "^4.17.20",
