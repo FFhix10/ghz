@@ -25,7 +25,7 @@
     "evergreen-ui": "^4.29.1",
     "fuzzaldrin-plus": "^0.6.0",
     "ky": "^0.25.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.11.1",
     "react-dom": "^16.13.1",
