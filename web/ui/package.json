@@ -22,7 +22,7 @@
   "dependencies": {
 
     "chartjs-color": "^2.4.1",
-    "evergreen-ui": "^4.29.1",
+    "evergreen-ui": "^6.2.0",
     "fuzzaldrin-plus": "^0.6.0",
     "ky": "^0.25.0",
     "lodash": "^4.17.21",
